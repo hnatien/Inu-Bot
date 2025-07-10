@@ -1,0 +1,10 @@
+discord.py
+python-dotenv
+aiohttp
+asyncio-throttle>=1.0.2
+requests>=2.31.0
+aiosqlite
+websockets
+Pillow>=10.0.0
+pytz>=2023.3
+matplotlib
